@@ -6,15 +6,11 @@
     <title>Personel Numarası Oluşturma Projesi</title>
 </head>
 <body>
-
     <h1>Personel Numarası Oluşturma Projesi</h1>
-
     <p>
         Bu basit Python projesi, kullanıcıdan alınan ad, soyad ve departman bilgileriyle personel numarası oluşturmayı ve bu bilgileri bir Excel dosyasına eklemeyi amaçlar. Proje, departman adlarını ve kodlarını içeren bir sözlük kullanır.
     </p>
-
     <h2>Kullanım</h2>
-
     <ol>
         <li><strong>Python Sürümü:</strong> Python 3.x'in yüklü olduğundan emin olun.</li>
         <li><strong>Gerekli Kütüphaneler:</strong> İhtiyacınız olan kütüphaneleri yüklemek için terminal veya komut istemcisine şu komutu yazın: <code>pip install pandas</code></li>
@@ -38,9 +34,7 @@
             </ul>
         </li>
     </ol>
-
     <h2>Departmanlar</h2>
-
     <ul>
         <li>Yönetim: 201</li>
         <li>Muhasebe: 202</li>
@@ -48,15 +42,11 @@
         <li>Lojistik: 204</li>
         <li>Üretim: 205</li>
     </ul>
-
     <h2>Geliştirme</h2>
-
     <p>
         Proje üzerinde değişiklik yapmak için lütfen bir dal oluşturun ve değişikliklerinizi orada yapın. Daha sonra bir birleştirme isteği gönderin.
     </p>
-
     <hr>
-
     <p>Umarım bu README dosyası projenizi kullanmanıza ve geliştirmenize yardımcı olur!</p>
 
 </body>
