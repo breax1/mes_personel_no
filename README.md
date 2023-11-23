@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Personel Numarası Oluşturma Projesi</h1>
+    <h1>Personel Numarası</h1>
     <p>
         Bu basit Python projesi, kullanıcıdan alınan ad, soyad ve departman bilgileriyle personel numarası oluşturmayı ve bu bilgileri bir Excel dosyasına eklemeyi amaçlar. Proje, departman adlarını ve kodlarını içeren bir sözlük kullanır.
     </p>
