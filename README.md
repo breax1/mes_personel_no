@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personel Numarası Oluşturma Projesi</title>
 </head>
 <body>
     <h1>Personel Numarası Oluşturma Projesi</h1>
@@ -17,7 +16,7 @@
         <li>
             <strong>Proje Çalıştırma:</strong>
             <ul>
-                <li><code>personel_numarasi_olustur.py</code> dosyasını çalıştırarak programı başlatın.</li>
+                <li><code>personel_no.py</code> dosyasını çalıştırarak programı başlatın.</li>
                 <li>Ardışık olarak ad, soyad ve departman bilgilerini girin.</li>
             </ul>
         </li>
